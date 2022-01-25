@@ -30,7 +30,7 @@ import {
 ```
 
 This will ensure that you are testing against the same bytecode that is deployed to
-mainnet and public testnets, and all Uniswap code will correctly interoperate with
+mainnet and public testnets, and all EtherEvolution code will correctly interoperate with
 your local deployment.
 
 ## Using solidity interfaces
